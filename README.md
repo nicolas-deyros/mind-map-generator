@@ -2,8 +2,7 @@
 
 A powerful, interactive web tool that transforms any topic, text, or idea into a structured mind map instantly using **Google Gemini AI**. Built with speed and aesthetics in mind.
 
-![Mind Map Generator Demo](https://via.placeholder.com/800x450.png?text=Mind+Map+Generator+Preview)
-_(Note: Replace with an actual screenshot of your application)_
+![Mind Map Generator Demo](public/demo-screenshot.png)
 
 ## ✨ Features
 
