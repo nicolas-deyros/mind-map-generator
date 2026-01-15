@@ -2,7 +2,7 @@
 
 A powerful, interactive web tool that transforms any topic, text, or idea into a structured mind map instantly using **Google Gemini AI**. Built with speed and aesthetics in mind.
 
-<video src="public/Mind Map Generator.mp4" controls width="100%" autoplay loop muted></video>
+<video src="public/mind-map-demo.mp4" poster="public/demo-screenshot.png" controls width="100%" autoplay loop muted></video>
 
 ## ✨ Features
 
@@ -63,7 +63,7 @@ A powerful, interactive web tool that transforms any topic, text, or idea into a
 
 ## 💡 Use Cases
 
-- **Study & Learning**: Quickly break down complex subjects into key concepts.
+- **Study & Learning**: Quickly break down complex concepts.
 - **Project Planning**: Visualize project structures, tasks, and dependencies.
 - **Content Creation**: Outline blog posts, videos, or presentations.
 - **Meeting Summaries**: Turn messy meeting notes into a clear, actionable hierarchy.
@@ -74,4 +74,4 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 
 ---
 
-_Built with ❤️ by [Nicolas Deyros](https://github.com/nicolas-deyros)_
+_Built with ❤️ by [Nicolas Deyros](https://github.com/nicolas-deyros) and **Antigravity** (Google DeepMind)_
