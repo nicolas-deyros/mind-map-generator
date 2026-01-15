@@ -1,0 +1,20 @@
+{
+  "name": "mind-map-generator",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@tailwindcss/vite": "^4.1.18",
+    "astro": "^5.16.9",
+    "markmap-lib": "^0.18.12",
+    "markmap-toolbar": "^0.18.12",
+    "markmap-view": "^0.18.12",
+    "tailwindcss": "^4.1.18"
+  }
+}
